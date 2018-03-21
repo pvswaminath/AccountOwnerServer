@@ -1,0 +1,14 @@
+D:\Projects\AccountOwnerServer\LoggerService\bin\Debug\netcoreapp2.0\LoggerService.deps.json
+D:\Projects\AccountOwnerServer\LoggerService\bin\Debug\netcoreapp2.0\LoggerService.dll
+D:\Projects\AccountOwnerServer\LoggerService\bin\Debug\netcoreapp2.0\LoggerService.pdb
+D:\Projects\AccountOwnerServer\LoggerService\obj\Debug\netcoreapp2.0\LoggerService.csproj.CoreCompileInputs.cache
+D:\Projects\AccountOwnerServer\LoggerService\obj\Debug\netcoreapp2.0\LoggerService.AssemblyInfoInputs.cache
+D:\Projects\AccountOwnerServer\LoggerService\obj\Debug\netcoreapp2.0\LoggerService.AssemblyInfo.cs
+D:\Projects\AccountOwnerServer\LoggerService\obj\Debug\netcoreapp2.0\LoggerService.dll
+D:\Projects\AccountOwnerServer\LoggerService\obj\Debug\netcoreapp2.0\LoggerService.pdb
+D:\Projects\AccountOwnerServer\LoggerService\bin\Debug\netcoreapp2.0\Contracts.dll
+D:\Projects\AccountOwnerServer\LoggerService\bin\Debug\netcoreapp2.0\Contracts.pdb
+D:\Projects\AccountOwnerServer\LoggerService\obj\Debug\netcoreapp2.0\LoggerService.csprojResolveAssemblyReference.cache
+D:\Projects\AccountOwnerServer\LoggerService\obj\Debug\netcoreapp2.0\LoggerService.csproj.CopyComplete
+D:\Projects\AccountOwnerServer\LoggerService\bin\Debug\netcoreapp2.0\Entities.dll
+D:\Projects\AccountOwnerServer\LoggerService\bin\Debug\netcoreapp2.0\Entities.pdb

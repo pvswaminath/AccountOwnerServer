@@ -1,0 +1,12 @@
+D:\Projects\AccountOwnerServer\Contracts\bin\Debug\netcoreapp2.0\Contracts.deps.json
+D:\Projects\AccountOwnerServer\Contracts\bin\Debug\netcoreapp2.0\Contracts.dll
+D:\Projects\AccountOwnerServer\Contracts\bin\Debug\netcoreapp2.0\Contracts.pdb
+D:\Projects\AccountOwnerServer\Contracts\obj\Debug\netcoreapp2.0\Contracts.csproj.CoreCompileInputs.cache
+D:\Projects\AccountOwnerServer\Contracts\obj\Debug\netcoreapp2.0\Contracts.AssemblyInfoInputs.cache
+D:\Projects\AccountOwnerServer\Contracts\obj\Debug\netcoreapp2.0\Contracts.AssemblyInfo.cs
+D:\Projects\AccountOwnerServer\Contracts\obj\Debug\netcoreapp2.0\Contracts.dll
+D:\Projects\AccountOwnerServer\Contracts\obj\Debug\netcoreapp2.0\Contracts.pdb
+D:\Projects\AccountOwnerServer\Contracts\obj\Debug\netcoreapp2.0\Contracts.csprojResolveAssemblyReference.cache
+D:\Projects\AccountOwnerServer\Contracts\bin\Debug\netcoreapp2.0\Entities.dll
+D:\Projects\AccountOwnerServer\Contracts\bin\Debug\netcoreapp2.0\Entities.pdb
+D:\Projects\AccountOwnerServer\Contracts\obj\Debug\netcoreapp2.0\Contracts.csproj.CopyComplete
