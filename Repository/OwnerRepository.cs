@@ -1,6 +1,7 @@
 ﻿using Contracts;
 using Entities;
 using Entities.Extended_Models;
+using Entities.Extensions;
 using Entities.Models;
 using System;
 using System.Collections.Generic;
@@ -14,6 +15,13 @@ namespace Repository
         public OwnerRepository(RepositoryContext repositoryContext)
             : base(repositoryContext)
         {
+        }
+
+        public void CreateOwner(Owner owner)
+        {
+            owner.Id = Guid.NewGuid();
+            Create(owner);
+            Save();
         }
 
         public IEnumerable<Owner> GetAllOwners()
@@ -33,5 +41,13 @@ namespace Repository
                 Accounts = RepositoryContext.Accounts.Where(a => a.OwnerId == ownerId)
             };
         }
+
+        public void UpdateOwner(Owner dbOwner, Owner owner)
+        {
+            dbOwner.Map(owner);
+            Update(dbOwner);
+            Save();
+        }
+
     }
 }
