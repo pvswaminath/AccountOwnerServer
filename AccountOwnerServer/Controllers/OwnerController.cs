@@ -41,6 +41,7 @@ namespace AccountOwnerServer.Controllers
             }
         }
 
+
         [HttpGet("{Id}", Name = "OwnerById")]
         public IActionResult GetOwnerById(Guid id) {
             try
@@ -76,7 +77,6 @@ namespace AccountOwnerServer.Controllers
                 {
                     _logger.LogError($"Owner with id: {id}, hasn't been found in db.");
                     return NotFound();
-
                 }
                 else
                 {
@@ -91,6 +91,7 @@ namespace AccountOwnerServer.Controllers
                 
             }
         }
+
 
         [HttpPost]
         public IActionResult CreateOwner([FromBody]Owner owner) {
@@ -153,5 +154,6 @@ namespace AccountOwnerServer.Controllers
                 return StatusCode(500, "Internal server error");
             }
         }
+
     }
 }
